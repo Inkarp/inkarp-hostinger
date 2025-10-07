@@ -3,10 +3,9 @@ import { Link } from 'react-router-dom';
 
 import Maccor from '/src/assets/PrincipalLogos/RowTwo/Maccor.jpg';
 import HohsenCorp from '/src/assets/PrincipalLogos/RowTwo/header.png';
-import LabStation from '/src/assets/PrincipalLogos/RowTwo/labstation.svg';
+import Labstation from '/src/assets/PrincipalLogos/RowTwo/labstation.svg';
 
 
-// Slug function
 const slugify = (str) =>
   str.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 
@@ -27,7 +26,7 @@ const synthesisData = [
   },
   {
     principal: "Labstation",
-    logo: LabStation,
+    logo: Labstation,
     products: [
       "Glovebox workstations",
       "Solvent Purifiers",
