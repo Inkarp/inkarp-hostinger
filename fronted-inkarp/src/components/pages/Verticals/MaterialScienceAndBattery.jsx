@@ -5,6 +5,7 @@ import Maccor from '/src/assets/PrincipalLogos/RowTwo/Maccor.jpg';
 import HohsenCorp from '/src/assets/PrincipalLogos/RowTwo/header.png';
 import LabStation from '/src/assets/PrincipalLogos/RowTwo/labstation.svg';
 
+
 // Slug function
 const slugify = (str) =>
   str.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
