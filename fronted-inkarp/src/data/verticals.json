@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "synthesis-and-flow-chemistry",
+    "types": [
+      {
+        "slug": "rotary-evaporators",
+        "products": [
+          { "slug": "hei-vap-core" },
+          { "slug": "hei-vap-expert" },
+          { "slug": "hei-vap-ultimate" },
+          { "slug": "hei-vap-expert-control" },
+          { "slug": "hei-vap-ultimate-control" },
+          { "slug": "hei-vap-industrial" },
+          { "slug": "hei-vap-industrial-basic" }
+        ]
+      },
+      {
+        "slug": "accessories",
+        "products": [
+          { "slug": "hei-vac-valve-control" },
+          { "slug": "hei-vac-valve-tec" },
+          { "slug": "hei-vac-vario-station" },
+          { "slug": "hei-vac-vario-control" }
+        ]
+      },
+      {
+        "slug": "magnetic-stirrers",
+        "products": [
+          { "slug": "hei-connect" },
+          { "slug": "hei-mix-s" },
+          { "slug": "hei-plate-mix-20-l" },
+          { "slug": "hei-plate-mix-n-heat-core" },
+          { "slug": "hei-plate-mix-n-heat-core-+" },
+          { "slug": "hei-plate-mix-n-heat-core-ultimate" },
+          { "slug": "hei-plate-mix-n-heat-core-expert" }
+        ]
+      },
+      {
+        "slug": "peristaltic-pumps",
+        "products": [
+          { "slug": "hei-flow-core-600" },
+          { "slug": "hei-flow-expert-600" },
+          { "slug": "hei-flow-ultimate-600" },
+          { "slug": "hei-flow-core-120" },
+          { "slug": "hei-flow-expert-120" },
+          { "slug": "hei-flow-ultimate-120" }
+        ]
+      },
+      {
+        "slug": "continuous-automatic-distillation-module",
+        "products": [
+          { "slug": "lab-scale-hei-volume-dismatic" },
+          { "slug": "lab-scale-hei-volume-dismatic-pro" }
+        ]
+      },
+      {
+        "slug": "overhead-stirrers",
+        "products": [
+          { "slug": "hei-torque-core" },
+          { "slug": "hei-torque-expert-100" },
+          { "slug": "hei-torque-expert-200" },
+          { "slug": "hei-torque-expert-400" },
+          { "slug": "hei-torque-ultimate-100" },
+          { "slug": "hei-torque-ultimate-200" },
+          { "slug": "hei-torque-ultimate-400" }
+        ]
+      },
+      {
+        "slug": "processing-solutions",
+        "products": [
+          { "slug": "hei-process-core" },
+          { "slug": "hei-process-expert" },
+          { "slug": "hei-process-ultimate" },
+          { "slug": "hei-process-customized" }
+        ]
+      },
+      {
+        "slug": "shakers-mixers",
+        "products": [
+          { "slug": "reax-top" },
+          { "slug": "reax-control" },
+          { "slug": "multi-reax" },
+          { "slug": "titrimax-101" },
+          { "slug": "titrimax-100" },
+          { "slug": "titrimax-1000" },
+          { "slug": "rotmax-120" },
+          { "slug": "unimax-1010" },
+          { "slug": "unimax-2010" },
+          { "slug": "duomax-1030" },
+          { "slug": "promax-1020" },
+          { "slug": "promax-2020" },
+          { "slug": "polymax-1040" },
+          { "slug": "polymax-2040" },
+          { "slug": "vibramax-100" },
+          { "slug": "reax-20-2-32" },
+          { "slug": "reax-20-1-16" },
+          { "slug": "reax-2" },
+          { "slug": "titramax-package" }
+        ]
+      },
+      {
+        "slug": "smart-cell-cultivation",
+        "products": [
+          { "slug": "sphericalplate-5d" }
+        ]
+      }
+    ]
+  }
+]
